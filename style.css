@@ -1,0 +1,107 @@
+body
+{
+    padding:0;
+    margin:0;
+    color: #fffaf0;
+    background-image:url(https://awesomewallpapers.files.wordpress.com/2009/07/wood-cyan-1440x9001.jpg);
+    width:80%;
+}
+
+main
+{
+    width:100%;
+    margin: auto;
+    
+}
+
+header
+{
+    width: 100%;
+    background-image:url(http://il7.picdn.net/shutterstock/videos/10681256/thumb/1.jpg);  
+    color: #fffff0;
+    background: repeat;
+}
+   
+h1
+{
+    font-family: Arial;
+    color: #fffff0;
+    font-size: 4.2em;
+    text-align: center;
+}
+
+h2{    
+    background-image:url(http://il7.picdn.net/shutterstock/videos/10260392/thumb/1.jpg);
+    border: 1px;
+    color: #fffff0;
+    text-align: left; 
+}
+
+.info
+{
+    margin: 10px 30px 15px 0px;
+    vertical-align: top;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+.conteneur
+{
+    width:100%;
+    max-width:960px;
+    margin:15px;
+    padding:10px;
+    display:inline-block
+    
+}
+
+.photo
+{
+    float: left;
+    width:35%;
+    box-shadow: 10px 10px 0px white;
+	vertical-align: top;
+}
+
+ul, li
+{
+    list-style-type:none;
+    font-size: 12px;
+    font-family: Cursive;
+    color: #fffaf0;  
+   
+}
+
+.colonne
+{
+    width:30%;
+    display:inline-block;
+    vertical-align:top;
+    box-sizing:border-box;
+    
+}
+
+footer
+{
+    width: 100%;
+    position:absolute;
+    box-sizing: border-box;
+}
+
+footer p
+{
+    text-align: auto;
+    width:30%;
+    display:inline-block;
+    vertical-align:top;
+    box-sizing:border-box;
+    margin-left:30px;
+}
+
+iframe
+{
+    width: 50%;
+    vertical-align:top;
+    box-sizing:border-box;
+    display:inline-block;
+}
